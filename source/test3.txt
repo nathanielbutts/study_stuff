@@ -1,0 +1,1 @@
+How does it handle [multiple|instances] of the [furigana|tag]?; and this is answer #3.
